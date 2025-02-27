@@ -1,0 +1,10 @@
+Git Learning:
+1. git add file-name
+2. git commit -m "tips"
+3. git log (--pretty-oneline 表示由一行输出
+4. git status
+5. git diff HEAD -- file-name
+6. git checkout -- file-name
+7. git reset --hard HEAD^(^的个数代表回退的版本 
+	或者把HEAD^替换为查询到的版本号的前几位，确保不会和其	他版本混淆
+8. git reflog (查询你的每一条命令
