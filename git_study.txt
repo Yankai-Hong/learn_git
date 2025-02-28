@@ -13,3 +13,4 @@ Git Learning:
 9. git restore file
 10. git rm <file> （删除file后需commit
 11. git push origin master （将本地master分支的最新修改推送至Github
+12. git switch (转换分支
